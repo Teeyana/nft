@@ -1,0 +1,107 @@
+
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee&display=swap');
+
+
+body{
+    box-sizing: border-box;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    background-color:#17395f;
+    font-family: 'ABeeZee', sans-serif;
+
+  
+}
+
+.container{
+    width: 250px;
+    margin: 5% auto;
+    box-shadow: 0 0 10px ;
+    background-color:#17395f;
+    border-radius: 15px; 
+    padding: 20px;
+    
+}
+
+.img{
+    width: 100%;
+ } 
+ 
+
+ img{
+    width: 100%;
+    border-radius: 15px;
+ }
+
+  .text{
+    color: white;
+
+ }
+
+
+ .lighter-shade{
+   color: white;
+ }
+
+ .creation{
+   color:  hsl(220, 15%, 55%);
+ }
+
+ 
+ .eth{
+   display: flex;
+   justify-content: space-between;
+   margin-bottom: 15px;
+
+   
+ }
+
+ .smaller-image{
+   display: flex;
+   align-items: center;
+ }
+
+ .smaller-image img{
+   width: 15px;
+   margin-right: 5px;
+
+
+ }
+ 
+ .diamond{
+   color: rgb(63, 241, 218);
+   font-size: 15px;
+   margin-right: 5px;
+
+ }
+
+ .days{
+   color:  hsl(220, 15%, 55%);
+   margin-right: 5px;
+   font-size: 15px;
+
+
+
+ }
+ 
+ .avatar{
+   display: flex;
+   align-items: center;
+   border-top: 1px solid  hsl(220, 15%, 55%);
+
+   
+ }
+
+
+ .avatar img{
+   border: 1px solid white;
+   width: 25px;
+
+ }
+
+ .grey{
+   color:  hsl(220, 15%, 55%);
+ }
+ .avatar span{
+   margin-left: 5px;
+ }
